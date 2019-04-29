@@ -10,3 +10,6 @@ function logShout(string){
 function logShout(string){
   
 }
+function sayHiToGrandma(string){
+  
+}
